@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sarulatha-portfilo/static/css/main.33f197f4.css",
+    "main.js": "/sarulatha-portfilo/static/js/main.f5e013eb.js",
+    "static/js/453.dc72f289.chunk.js": "/sarulatha-portfilo/static/js/453.dc72f289.chunk.js",
+    "index.html": "/sarulatha-portfilo/index.html",
+    "main.33f197f4.css.map": "/sarulatha-portfilo/static/css/main.33f197f4.css.map",
+    "main.f5e013eb.js.map": "/sarulatha-portfilo/static/js/main.f5e013eb.js.map",
+    "453.dc72f289.chunk.js.map": "/sarulatha-portfilo/static/js/453.dc72f289.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33f197f4.css",
+    "static/js/main.f5e013eb.js"
+  ]
+}
